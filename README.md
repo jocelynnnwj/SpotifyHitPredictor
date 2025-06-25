@@ -173,9 +173,25 @@ model = train_classification_model(X_train, y_train, model_type='random_forest')
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👥 Team
+
+**Group 48 (USC DSCI 551):**
+- Ying Yang (Leader)
+- Zhiqian Li
+- Yixin Qu
+- Wenjing Huang
+
 ## 🙏 Acknowledgments
 
 - Dataset from [Kaggle: Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 - Dataset from [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 - Spotify API for providing the audio features
 - DSCI 550 course at USC for project guidance
+
+  ## 📞 Support
+
+For questions or support, please contact the development team or create an issue in the repository.
+
+---
+
+**Built with ❤️💛 for USC DSCI 550 (Group 2)**
