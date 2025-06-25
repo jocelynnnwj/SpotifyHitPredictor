@@ -8,6 +8,11 @@
 
 SpotifyHitPredictor is a machine learning project that analyzes Spotify song data to predict song popularity using advanced data science techniques. The project implements a comprehensive analysis pipeline including exploratory data analysis, feature selection, and both regression and classification modeling approaches to identify what makes a song popular.
 
+## 📂 Data Source
+
+- The main dataset used in this project is from Kaggle:  
+  [Top Spotify Songs 2023 - Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+
 ## 🎯 Objectives
 
 - **Data Exploration**: Analyze Spotify song features and their relationships
@@ -170,6 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- Dataset from [Kaggle: Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 - Dataset from [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 - Spotify API for providing the audio features
 - DSCI 550 course at USC for project guidance
