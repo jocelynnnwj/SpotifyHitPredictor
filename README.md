@@ -188,10 +188,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Spotify API for providing the audio features
 - DSCI 550 course at USC for project guidance
 
-  ## 📞 Support
+## 📞 Support
 
 For questions or support, please contact the development team or create an issue in the repository.
 
----
 
 **Built with ❤️💛 for USC DSCI 550 (Group 2)**
